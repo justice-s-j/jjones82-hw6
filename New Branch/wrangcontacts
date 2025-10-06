@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Contacts</title>
+</head>
+<body>
+  <table>
+    <caption>Contacts</caption>
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+      <th>Phone</th>
+      <th>Email</th>
+      <th>Birthday</th>
+    </tr>
+    <tr>
+      <td>Justice</td>
+      <td>409 S Gilbert St, Iowa City, IA 52240</td>
+      <td>319-461-6938</td>
+      <td>jjones82@uiowa.edu</td>
+      <td>2003-06-15</td>
+    </tr>
+    <tr>
+      <td>Josh Jacobs</td>
+      <td>1265 Lombardi Ave, Green Bay, WI 54313</td>
+      <td>998-123-4567</td>
+      <td>joshjacobs@gmail.com</td>
+      <td>1998-02-11</td>
+    </tr>
+    <tr>
+      <td>Jaxson Dart</td>
+      <td>1 Metlife Stadium Dr., Rutherford, NJ 07073</td>
+      <td>201-321-9876</td>
+      <td>jdart@gmail.com</td>
+      <td>2003-05-13</td>
+    </tr>
+    <tr>
+      <td>Dan Flash</td>
+      <td>400 Renaissance Center Dr., Detroit, MI 48243</td>
+      <td>920-569-7500</td>
+      <td>dannyflash1@gmail.com</td>
+      <td>2000-01-01</td>
+    </tr>
+  </table>
+</body>
+</html>
