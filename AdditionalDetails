@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>About — Justice Jones</title>
+    <link rel="stylesheet" href="./css/stylesheet.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>About Justice Jones</h1>
+      <p><strong>Favorite color:</strong> black</p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
+        pulvinar, metus sed facilisis posuere, tortor elit rutrum arcu, in
+        mollis lacus nisl id urna. Integer aliquet, nibh id bibendum
+        scelerisque, erat diam congue dui, eget mattis arcu nunc quis lorem.
+      </p>
+    </div>
+  </body>
+</html>
